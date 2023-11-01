@@ -1,9 +1,9 @@
 ## Bem vindo 😄
-Eu sou Matthews Estudante Fullstack 🔥
+Matthews Britto Desenvolvedor Fullstack 🔥
 
-- 🌱 Desenvolvimento Web.
-- Estudante apaixonado por tecnologia e inovação!🤖 
-- Sonhando em participar de grandes projetos.💻
+- React | React-Native | Nodejs 
+- Apaixonado por tecnologia e inovação!🤖 
+- Sonho em participar de grandes projetos e acordo todos os dias motivado para fazer isso acontecer. 💻
 
 <div align="center">
   <a href="https://github.com/MatthewsBritto">
