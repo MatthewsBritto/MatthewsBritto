@@ -17,10 +17,12 @@
 </div>
 
 #### Formação Acadêmica:
-**TRILHA IGNITE** \
+*TRILHA IGNITE* \
 <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg">
-Linguagens & Tecnologias - Front-end: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
+Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 <br/>
+*ANALISE E DESENVOLVIMENTO DE SISTEMAS* \
+<img align="center" alt="Js" height="94" width="120" src="https://dp828as6rrq5m.cloudfront.net/wp-content/uploads/2021/08/17102722/icone-descomplica-verde-transparente.svg">
 
 ##
 
