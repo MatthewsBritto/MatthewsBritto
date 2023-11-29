@@ -17,10 +17,16 @@
 </div>
 
 #### Formação Acadêmica:
-
-<img align="center" alt="Js" height="94" width="94" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg">
+**TRILHA IGNITE** \
+<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg">
+Linguagens & Tecnologias - Front-end: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
+<br/>
 
 ##
+
+### Meu Portifólio 
+<a href = "mailto:luismatthews29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 #### Ferramentas Principais :
 
 <div style="display: inline_block"><br>
