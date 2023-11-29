@@ -20,7 +20,9 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
   <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
  
   
-  Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT `  
+  Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT ` 
+
+  
 <br/>
 <br/>
   
