@@ -7,18 +7,18 @@
 - Sonho em participar de grandes projetos e acordo todos os dias motivado para fazer isso acontecer. 💻
 - Estudante de Desenvolvimento de Software na Rocketseat 
 
-<div align="start">
+<div align="start" margin-top="50px">
   <a href="https://github.com/MatthewsBritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewsBritto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 
 
-<div align="start">
+<div align="start" margin-top="50px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewsBritto&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
     
-#### Minhas Ferramentas Principais:
+#### Ferramentas Principais :
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
