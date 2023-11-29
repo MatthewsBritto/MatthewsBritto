@@ -5,7 +5,7 @@
 - Apaixonado por tecnologia e inovação!🤖 
 - Sonho em participar de grandes projetos e acordo todos os dias motivado para fazer isso acontecer. 💻
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/MatthewsBritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewsBritto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     
