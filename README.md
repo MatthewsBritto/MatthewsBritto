@@ -11,25 +11,34 @@
 ##
 
 
-#### Formação Acadêmica:
+##### Formação Acadêmica:
 
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
-** TRILHA IGNITE **  
+  **TRILHA IGNITE** 
+
+  <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
+ 
+  
+  Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT `  
 <br/>
-Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT `
 <br/>
+  
+
+**ANALISE E DESENVOLVIMENTO DE SISTEMAS**
 
 
-*ANALISE E DESENVOLVIMENTO DE SISTEMAS* 
+<br/>
 <div>
   <img align="center" alt="Js" height="48" width="48" src="https://dp828as6rrq5m.cloudfront.net/wp-content/uploads/2021/08/17102722/icone-descomplica-verde-transparente.svg">
+   - Faculdade Digital Descomplica
 </div>
 
 ##
 
-### Me Conheça Melhor⤵️ 
+#### Me Conheça Melhor⤵️ 
+
+
 <div>  
   <a href = "https://tailwind-portifolio-pljq.vercel.app/pt-BR"><img src="https://img.shields.io/badge/-Portifolio-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href = "mailto:luismatthews29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -56,11 +65,10 @@ Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT 
 <div align="start" >
   <a href="https://github.com/MatthewsBritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewsBritto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-</div>
-<br/>
-<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewsBritto&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+
+
 
 
 
