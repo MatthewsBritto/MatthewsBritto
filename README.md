@@ -6,14 +6,13 @@
 - Apaixonado por tecnologia ! 🤖 
 - Sonho em participar de grandes projetos e acordo todos os dias motivado para fazer isso acontecer. 💻
 - Estudante de Desenvolvimento de Software na Rocketseat 
-
-<div align="start" margin-top="50px">
+##
+<div align="start" >
   <a href="https://github.com/MatthewsBritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewsBritto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
-
-
-<div align="start" margin-top="50px">
+<br/>
+<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewsBritto&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
