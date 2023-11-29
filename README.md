@@ -16,7 +16,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewsBritto&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-    
+#### Formação Acadêmica:
+
+<img align="center" alt="Js" height="94" width="94" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg">
+
+##
 #### Ferramentas Principais :
 
 <div style="display: inline_block"><br>
