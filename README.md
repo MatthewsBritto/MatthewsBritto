@@ -18,7 +18,7 @@
 
 #### Formação Acadêmica:
 *TRILHA IGNITE* \
-<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg">
+<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> \
 Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 <br/>
 *ANALISE E DESENVOLVIMENTO DE SISTEMAS* \
