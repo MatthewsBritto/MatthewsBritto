@@ -19,15 +19,16 @@
 #### Formação Acadêmica:
 *TRILHA IGNITE* \
 <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
+<br/>
 Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 <br/>
 *ANALISE E DESENVOLVIMENTO DE SISTEMAS* \
-<img align="center" alt="Js" height="94" width="120" src="https://dp828as6rrq5m.cloudfront.net/wp-content/uploads/2021/08/17102722/icone-descomplica-verde-transparente.svg">
+<img align="center" alt="Js" height="94" width="84" src="https://dp828as6rrq5m.cloudfront.net/wp-content/uploads/2021/08/17102722/icone-descomplica-verde-transparente.svg">
 
 ##
 
 ### Meu Portifólio 
-<a href = "mailto:luismatthews29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://tailwind-portifolio-pljq.vercel.app/pt-BR"><img src="https://img.shields.io/badge/-Portifolio-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 #### Ferramentas Principais :
 
