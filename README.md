@@ -18,7 +18,7 @@
 
 #### Formação Acadêmica:
 *TRILHA IGNITE* \
-<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> \
+<img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
 Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 <br/>
 *ANALISE E DESENVOLVIMENTO DE SISTEMAS* \
@@ -31,7 +31,8 @@ Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 
 #### Ferramentas Principais :
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br/>
   <img align="center" alt="Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
