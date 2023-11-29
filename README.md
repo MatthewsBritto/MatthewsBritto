@@ -27,8 +27,14 @@ Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
 
 ##
 
-### Meu Portifólio 
-<a href = "https://tailwind-portifolio-pljq.vercel.app/pt-BR"><img src="https://img.shields.io/badge/-Portifolio-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### Me conheça melhor
+<div>  
+  <a href = "https://tailwind-portifolio-pljq.vercel.app/pt-BR"><img src="https://img.shields.io/badge/-Portifolio-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luismatthews29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matthews-britto-a61316195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+
+##
 
 #### Ferramentas Principais :
 
@@ -43,11 +49,8 @@ Tecnologias: `REACT`, `REACT NATIVE`, `NODE JS`, `TAILWIND`, `TYPESCRIPT`
   <img align="center" height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
 </div>
   
-  ##
-<div>  
-  <a href = "mailto:luismatthews29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matthews-britto-a61316195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>  
+
+
 
 
 
