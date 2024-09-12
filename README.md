@@ -32,8 +32,8 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 
 <br/>
 <div>
-  <img align="center" alt="Js" height="48" width="48" src="https://dp828as6rrq5m.cloudfront.net/wp-content/uploads/2021/08/17102722/icone-descomplica-verde-transparente.svg">
-   - Faculdade Digital Descomplica
+  <img align="center" alt="Js" height="48" width="48" src="http://www.fatecrp.edu.br/wp-content/themes/fatecrp/dist/img/logo.png">
+   - Faculdade de Tecnologia de Ribeirão Preto
 </div>
 
 ##
