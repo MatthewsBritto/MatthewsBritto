@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 
   **TRILHA IGNITE** 
 
-  <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"> 
+  <img align="center" alt="Js" height="94" width="120" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.a329c198.svg"> 
  
   
   Tecnologias: `REACT`, ` REACT NATIVE `, ` NODE JS `, ` TAILWIND `, ` TYPESCRIPT ` 
@@ -32,7 +32,7 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 
 <br/>
 <div>
-  <img align="center" alt="Js" height="48" width="48" src="http://www.fatecrp.edu.br/wp-content/themes/fatecrp/dist/img/logo.png">
+  <img align="center" alt="Js" height="48" width="120" src="http://www.fatecrp.edu.br/wp-content/themes/fatecrp/dist/img/logo.png">
    - Faculdade de Tecnologia de Ribeirão Preto
 </div>
 
