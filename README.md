@@ -4,7 +4,7 @@
 ## Desenvolvedor Fullstack 🔥<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 
-- [ REACT | REACT-NATIVE | NODE JS ] 
+- [ REACT | REACT-NATIVE | NODE JS | Next] 
 - Apaixonado por tecnologia ! 🤖 
 - Sonho em participar de grandes projetos e acordo todos os dias motivado para fazer isso acontecer. 💻
 - Estudante de Desenvolvimento de Software na Rocketseat 👩‍🚀🚀
